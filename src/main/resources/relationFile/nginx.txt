@@ -1,0 +1,19 @@
+下载nginx
+http://nginx.org/en/download.html
+
+安装 nginx
+window :直接解压到安装路径
+
+启动 nginx
+
+cd C:\Users\Administrator\Downloads\nginx-1.12.2
+nginx
+
+修改配置文件  验证正确性
+
+cd C:\Users\Administrator\Downloads\nginx-1.12.2
+nginx -t
+
+重新加载配置
+
+nginx -s reload
