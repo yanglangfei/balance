@@ -40,3 +40,6 @@ C:\server\nginx-1.0.2>nginx.exe -s reopen
 
 5、查看Nginx版本：
 C:\server\nginx-1.0.2>nginx -v
+
+
+http://tengine.taobao.org/
